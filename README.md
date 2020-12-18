@@ -6,3 +6,7 @@ requirements:
 - pip install pillow
 - pip install pyzbar
 - pip install pypng
+
+Enjoy!
+Lukas Z
+LukeProducts
